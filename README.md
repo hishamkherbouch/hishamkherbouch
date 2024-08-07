@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hishamkherbouch
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
 - 😄 Pronouns: He/Him
 
 <!---
